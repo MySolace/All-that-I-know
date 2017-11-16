@@ -1,6 +1,5 @@
-# Letter to All. #
-## Nobody in Particular. ##
-
+Letter to All
+===
 
 I'll be around a while still,
 I'm just past thirty-two.
