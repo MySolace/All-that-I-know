@@ -1,8 +1,3 @@
----
-title: All That I Know
-description: poem collection
----
+# All That I Know
 
-# All that I know
-
-Vaguely evil sounding poems.
+A set of poetry.
