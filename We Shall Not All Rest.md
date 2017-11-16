@@ -1,5 +1,4 @@
-# Men Shall Seek Death #
-### And it shall not come to them. ###
+# Men Shall Seek Death
 
 He whispered to me and it crumbled me,
 a waterfall behind a too-loud symphony.
